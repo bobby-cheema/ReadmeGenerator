@@ -3,11 +3,11 @@
 this is a test file 
 ---
 ###  Table of Content 
- * [install]  (#Install-Instructions)
- * [Usage Information]  (#Usage-Information)
- * [Contribution guidelines]  (#Contributing-to-the-project)
- * [Test instructions] (#Test-Instruction)
- * [Questions] (#Questions)
+ * [install](#Install-Instructions)
+ * [Usage Information](#Usage-Information)
+ * [Contribution guidelines](#Contributing-to-the-project)
+ * [Test instructions](#Test-Instruction)
+ * [Questions](#Questions)
 ---
 Install Instructions
 ====================
