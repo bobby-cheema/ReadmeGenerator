@@ -9,7 +9,7 @@ this is a test file
  * [Test instructions] (#Test-Instruction)
  * [Questions] (#Questions)
 ---
-#### Install Instructions
+Install Instructions
 to install npm install
 
 #### Usge Information 
