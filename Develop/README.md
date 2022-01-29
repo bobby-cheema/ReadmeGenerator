@@ -1,6 +1,8 @@
-# Test Readme 
+# gymAdmin
+
 ##  Description 
-this is a test file 
+this software manages a busy modern gymnasium  
+
 ---
 ###  Table of Content 
  * [install](#Install-Instructions)
@@ -9,31 +11,33 @@ this is a test file
  * [Test instructions](#Test-Instruction)
  * [Questions](#Questions)
 ---
-Install Instructions
-====================
-to install npm install
+## Install Instructions
+npm install 
 
-#### Usge Information 
+## Usge Information 
 
-use it with caution
+to use this app login with admin and password admin , change tha password after you login 
 
-#### Licience 
+## Licience 
 
-This repo is protected by the BSD
-
-
-### Contributing to the project 
-
-to contribute learn javascript
+This repo is protected by the Mit
 
 
-### Test Instruction 
+## Contributing to the project 
 
-to test lern testing 
+to contribute tothis project , contact the maintainer at the adress provided 
 
-### Questions 
 
-... For further questions contact the maintainer of this repo at  bobby@cs.auckland.acnz 
+## Test Instruction 
 
-...  The Github id of the maintainer is bobby-cheema
+to test run npx jest 
+
+## Questions 
+
+For further questions contact the maintainer of this repo at  bobby@cs.auckland.ac.nz 
+
+The Github id of the maintainer is bobby-github
+
+
+
 
