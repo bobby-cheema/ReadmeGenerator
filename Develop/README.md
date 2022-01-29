@@ -1,9 +1,8 @@
-![alt text](https://www.whitesourcesoftware.com/wp-content/media/2021/04/aHViPTcyNTE0JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVjNDk3OTRhMTc1ZjEucG5nJnZlcnNpb249MDAwMCZzaWc9NmZmMDU2MWFkNjA1ZTU2NDQxNDVmZWJmOTYyYTQwNDk.png)
-
-# gymAdmin
+ [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)   
+# ewcwe
 
 ##  Description 
-this software manages a busy modern gymnasium  
+ewcwe 
 
 ---
 ###  Table of Content 
@@ -14,32 +13,28 @@ this software manages a busy modern gymnasium
  * [Questions](#Questions)
 ---
 ## Install Instructions
-npm install 
+cewcew
 
 ## Usge Information 
 
-to use this app login with admin and password admin , change tha password after you login 
+cewcew
 
 ## Licience 
 
-This repo is protected by the Mit
+This repo is protected by the Apache click on the badge on the top to get full information about this liciense 
 
 
 ## Contributing to the project 
 
-to contribute tothis project , contact the maintainer at the adress provided 
+cewcew
 
 
 ## Test Instruction 
 
-to test run npx jest 
+cwecew
 
 ## Questions 
 
-For further questions contact the maintainer of this repo at  bobby@cs.auckland.ac.nz 
+For further questions contact the maintainer of this repo at  cewcew 
 
-The Github id of the maintainer is bobby-github
-
-
-
-
+The Github id of the maintainer is cewcew
